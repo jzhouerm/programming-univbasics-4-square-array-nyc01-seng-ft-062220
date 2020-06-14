@@ -6,3 +6,5 @@ def square_array(array)
     count += 1
   end
 end
+
+square_array([1, 2, 3])
